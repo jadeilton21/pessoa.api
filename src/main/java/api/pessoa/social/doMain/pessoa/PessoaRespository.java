@@ -1,4 +1,4 @@
-package api.pessoa.social.pessoa;
+package api.pessoa.social.doMain.pessoa;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
