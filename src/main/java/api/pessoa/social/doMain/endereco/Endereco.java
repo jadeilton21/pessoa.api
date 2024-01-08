@@ -1,4 +1,4 @@
-package api.pessoa.social.endereco;
+package api.pessoa.social.doMain.endereco;
 
 import jakarta.persistence.Embeddable;
 import lombok.AllArgsConstructor;
