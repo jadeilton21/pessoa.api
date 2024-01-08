@@ -1,6 +1,6 @@
-package api.pessoa.social.pessoa;
+package api.pessoa.social.doMain.pessoa;
 
-import api.pessoa.social.endereco.DadosEndereco;
+import api.pessoa.social.doMain.endereco.DadosEndereco;
 import jakarta.validation.constraints.NotNull;
 
 public record DadosAtulizarPessoa(
