@@ -1,6 +1,6 @@
-package api.pessoa.social.pessoa;
+package api.pessoa.social.doMain.pessoa;
 
-import api.pessoa.social.endereco.Endereco;
+import api.pessoa.social.doMain.endereco.Endereco;
 
 public record DadosListagemPessoa(Long id, String nome, String email, String cpf, String idade, String telefone, Profissoess profissoess, Endereco endereco) {
 
