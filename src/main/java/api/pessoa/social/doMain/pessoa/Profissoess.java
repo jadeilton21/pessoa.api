@@ -1,4 +1,4 @@
-package api.pessoa.social.pessoa;
+package api.pessoa.social.doMain.pessoa;
 
 public enum Profissoess {
 
