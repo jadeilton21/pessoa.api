@@ -1,7 +1,7 @@
-package api.pessoa.social.pessoa;
+package api.pessoa.social.doMain.pessoa;
 
 
-import api.pessoa.social.endereco.Endereco;
+import api.pessoa.social.doMain.endereco.Endereco;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
