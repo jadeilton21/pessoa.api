@@ -1,6 +1,6 @@
-package api.pessoa.social.pessoa;
+package api.pessoa.social.doMain.pessoa;
 
-import api.pessoa.social.endereco.DadosEndereco;
+import api.pessoa.social.doMain.endereco.DadosEndereco;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
